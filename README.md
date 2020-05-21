@@ -1,6 +1,6 @@
 # Functional_Programming_Haskell
 
-# Topics
+# Topics order
 
 1. DataAndFunctions
 2. MoreData
