@@ -1,6 +1,6 @@
 # Functional_Programming_Haskell
 
-# Lecture Code
+# Topics
 
 1. DataAndFunctions
 2. MoreData
